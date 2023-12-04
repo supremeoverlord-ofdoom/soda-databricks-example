@@ -1,0 +1,4 @@
+# Checks for basic validations
+checks for sw_characters:
+  - min(height) > 1:
+      name: Height not physically possible
